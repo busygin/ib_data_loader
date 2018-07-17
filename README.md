@@ -16,3 +16,5 @@ Saves 5 sec bar data as a text file date.bars
 The columns are:
 
 timestamp, open, high, low, close, volume, count, WAP, hasGaps
+
+!! This software is provided AS IS. NO WARRANTY is expressed or implied. !!
